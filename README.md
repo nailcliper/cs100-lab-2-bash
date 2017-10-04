@@ -2,7 +2,7 @@
 ## Author: Rachid Ounit, Brian Crites 
 In this lab you will create your first Shell scripts, and especially some scripts to manage C++ files. Get each section checked off by your TA after you have completed every section. Several sections mention tutorials that you should read.  If you find that any tutorial does not adequately explain the concept then I encourage you to look for additional tutorials. 
 
-You will be forking the github repository for this lab (and all future labs). You will be making a commit after each step.
+The github classroom link has been provided, it will create a fork of the repo under your account which you will have access to, and admin priveleges for. You will then clone that repo to start working. You will be making a commit after each step.
 
 ## Introduction
 In this part, you will create and run your first Shell script, printing in the standard output “Hello world!”.
