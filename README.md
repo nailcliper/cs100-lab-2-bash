@@ -97,7 +97,3 @@ Shell:
 * [http://www.gnu.org/software/bash/manual/html_node/](http://www.gnu.org/software/bash/manual/html_node/)
 * [http://tldp.org/LDP/Bash-Beginners-Guide/html/](http://tldp.org/LDP/Bash-Beginners-Guide/html/)
 * [http://mywiki.wooledge.org/BashGuide](http://mywiki.wooledge.org/BashGuide)
-
-
-# lab02-bash
-Bash scripting
