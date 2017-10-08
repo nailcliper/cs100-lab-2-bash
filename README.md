@@ -22,7 +22,13 @@ You can pass parameters to your Shell scripts. For example, $1 is the first para
 
 ## Empty C++ main file
 * Read the manual for the command cat.
-* Create a header text file entitled “<Firstname>_<SID>.txt”, where <Firstname> is your first name and <SID> your Student ID. Its content is your first name, last name, email address, and SID. Use rigorously the format provided in the example file.
+* Create a header text file entitled “<Firstname>_<SID>.txt”, where <Firstname> is your first name and <SID> your Student ID. Its content is your first name, last name, email address, and SID. 
+ID. Its content is your first name, last name, email address, and SID. 
+```c++
+// <First name> <Last name>
+// SID: <SID>
+// Email: <E-mail address>
+```
 * Write a script named “createEmptyMainFile.sh” that automatically create a source file (“main.cc”), in the working directory, that contains the content of “<Firstname>_<SID>.txt” at the top, and its last two lines are:
 ```
 int main(int argc, const char** argv)
