@@ -18,8 +18,8 @@ else
         echo "$large is the largest value"
       else
         large=$3
+        echo "$large is the largest value"
       fi
-      echo "$large is the largest value"
     fi
   else
     echo "Too many parameters"
