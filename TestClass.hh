@@ -1,5 +1,5 @@
-#ifndef 
-#define 
+#ifndef TestClass_hh
+#define TestClass_hh
 
 class TestClass
 {

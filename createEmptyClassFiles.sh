@@ -12,8 +12,10 @@ echo "" >> $classname.cc
 echo "$classname::~$classname()" >> $classname.cc
 echo "{}" >> $classname.cc
 
-echo "#ifndef $classname_hh" > $classname.hh
-echo "#define $classname_hh" >> $classname.hh
+
+name=${classname}'_''h''h'
+echo "#ifndef $name" > $classname.hh
+echo "#define $name" >> $classname.hh
 echo "" >> $classname.hh
 echo "class $classname" >> $classname.hh
 echo "{" >> $classname.hh
